@@ -9,7 +9,6 @@ const Menu = () => {
   return (
     <nav>
       <Anchor to='/'>HOME</Anchor>
-      <Anchor to='/people/1'>People</Anchor>
     </nav>
   );
 };
